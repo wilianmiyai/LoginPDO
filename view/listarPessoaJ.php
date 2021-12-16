@@ -49,8 +49,6 @@ $listaPessoaJ = $cadPessoa->getPessoaJ();
                 <?php endforeach; ?>
             </tbody>
         </table>
-        <?php
-        // put your code here
-        ?>
+        <button type="button" onclick="location.href = 'cadPessoaJ.php'">Voltar</button>
     </body>
 </html>
